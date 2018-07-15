@@ -13,13 +13,13 @@ Credit
 
 Supported ROM(s)
 ===========
-1.AospExtended
+1.AospExtended --Oreo
 
 Official Website:[**https://aospextended.com/**](https://aospextended.com/)
 
 Github : [**https://github.com/AospExtended**](https://github.com/AospExtended)
 
-2.LineageOS
+2.LineageOS  --Oreo
 
 Official Website :[**https://lineageos.org/**](https://lineageos.org/)
 
