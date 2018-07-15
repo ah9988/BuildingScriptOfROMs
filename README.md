@@ -9,13 +9,21 @@ Credit
 
 [**AospExtended**](https://aospextended.com/)
 
+[**LineageOS**](https://lineageos.org/)
+
 Supported ROM(s)
 ===========
 1.AospExtended
 
 Official Website:[**https://aospextended.com/**](https://aospextended.com/)
 
-Github[**https://github.com/AospExtended**](https://github.com/AospExtended)
+Github : [**https://github.com/AospExtended**](https://github.com/AospExtended)
+
+2.LineageOS
+
+Official Website :[**https://lineageos.org/**](https://lineageos.org/)
+
+Github : [**https://github.com/LineageOS**](https://github.com/LineageOS)
 		
 Download the script		 
 ===========
