@@ -1,6 +1,8 @@
 # BuildingScriptOfROMs
 Script Maker : EarthC
 
+CoolApk (酷安): 住在地球真累
+
 Github: [**https://github.com/1552980358**](https://github.com/1552980358)
 
 Credit
