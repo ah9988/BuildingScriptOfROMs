@@ -1,18 +1,19 @@
 # BuildingScriptOfROMs
-===========
 Script Maker : EarthC
+
 Github: [**https://github.com/1552980358**](https://github.com/1552980358)
 
 Credit
 ===========
 [**Wloot(Liu Nian)**](https://github.com/wloot)
+
 [**AospExtended**](https://aospextended.com/)
 
 Supported ROM(s)
 ===========
-1.AospExtended
-	Official Website |[**https://aospextended.com/**](https://aospextended.com/)
-		 Github	     |[**https://github.com/AospExtended**](https://github.com/AospExtended)
+AospExtended
+	Official Website:[**https://aospextended.com/**](https://aospextended.com/)
+	Github"[**https://github.com/AospExtended**](https://github.com/AospExtended)
 		
 Download the script		 
 ===========
@@ -45,6 +46,6 @@ For Building 7.x or above
    sudo apt install openjdk-8-jdk -y
 ```
 For building Android 7.x or lower
-	```bash
+```bash
    sudo apt install openjdk-7-jdk -y
 ```
