@@ -50,4 +50,14 @@ For Building 7.x or above
 For building Android 7.x or lower
 ```bash
    sudo apt install openjdk-7-jdk -y
+   
+3.Set up ccache for faster compile
+Add following at ~/.bashrc
+```bash
+   export USE_CCACHE=1
+```
+and type following at terminal
+```bash
+   ccache -M 50G
+   export CCACHE_COMPRESS=1
 ```
