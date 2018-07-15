@@ -106,7 +106,7 @@ case $choice in
 	lunch $total
 	mka aex -j8
 	;;
-
-#	echo "Out of choice range. Script stop at `date` ."
-#	echo "===================================================================================="
+*)
+	echo "Out of choice range. Script stop at `date` ."
+	echo "===================================================================================="
 esac
