@@ -1,38 +1,38 @@
 # BuildingScriptOfROMs
 ===========
 Script Maker : EarthC
-Github: [**]https://github.com/1552980358[**](https://github.com/1552980358)
+Github: [**https://github.com/1552980358**](https://github.com/1552980358)
 
-#Credit
+Credit
 ===========
-[**]Wloot(Liu Nian)[**](https://github.com/wloot)
-[**]AospExtended[**](https://aospextended.com/)
+[**Wloot(Liu Nian)**](https://github.com/wloot)
+[**AospExtended**](https://aospextended.com/)
 
 Supported ROM(s)
 ===========
 1.AospExtended
-	Official Website |[**]https://aospextended.com/[**](https://aospextended.com/)
-		 Github	     |[**]https://github.com/AospExtended[**](https://github.com/AospExtended)
+	Official Website |[**https://aospextended.com/**](https://aospextended.com/)
+		 Github	     |[**https://github.com/AospExtended**](https://github.com/AospExtended)
 		
-#Download the script		 
+Download the script		 
 ===========
 ```bash
    git clone https://github.com/1552980358/BuildingScriptOfROMs.git
 ```
 
-#Start the script
+Start the script
 ===========
 ```bash
    ./<Script name>.sh
 ```
 
-#Get updated
+Get updated
 ===========
 ```bash
    git pull -f
 ```
 
-#Other supports
+Other supports
 ===========
 1.Necessary compile packages
 ```bash
