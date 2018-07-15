@@ -13,9 +13,9 @@ Supported ROM(s)
 ===========
 1.AospExtended
 
-	Official Website:[**https://aospextended.com/**](https://aospextended.com/)
+Official Website:[**https://aospextended.com/**](https://aospextended.com/)
 
-	Github[**https://github.com/AospExtended**](https://github.com/AospExtended)
+Github[**https://github.com/AospExtended**](https://github.com/AospExtended)
 		
 Download the script		 
 ===========
