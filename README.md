@@ -60,6 +60,7 @@ For Building 7.x or above
 For building Android 7.x or lower
 ```bash
    sudo apt install openjdk-7-jdk -y
+```
    
 3.Set up ccache for faster compile
 Add following at ~/.bashrc
